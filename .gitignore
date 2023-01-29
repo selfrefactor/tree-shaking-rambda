@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+tree-shaking-webpack/output/rambda.js
+tree-shaking-webpack/output/rambdax.js
+tree-shaking-webpack/output/ramda.js

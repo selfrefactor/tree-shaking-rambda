@@ -1,0 +1,8 @@
+{
+  "name": "tree-shaking-rambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/selfrefactor/tree-shaking-rambda",
+  "author": "Deyan Totev <deyan.totev.extern@seven.one>",
+  "license": "MIT"
+}
